@@ -1,4 +1,4 @@
-# Ex.No:3(d)    STRING BUILDER IN JAVA
+# Ex.No:3(e)    STRING BUILDER IN JAVA
 
 ## AIM:
 To Create a java program use replace() method replaces the given String from the specified beginIndex and endIndex and use stringbuilder
